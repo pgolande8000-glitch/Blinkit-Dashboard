@@ -8,6 +8,5 @@ In short, it’s about:
 Would you like me to draft a one-line project objective statement (like for a report or presentation), or a slightly detailed version (like for a project proposal)?
 
 ## Dataset used
-- https://github.com/pgolande8000-glitch/Blinkit-Dashboard/blob/main/README.md
 - https://github.com/pgolande8000-glitch
 
