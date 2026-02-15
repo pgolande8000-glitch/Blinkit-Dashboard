@@ -10,3 +10,10 @@ Would you like me to draft a one-line project objective statement (like for a re
 ## Dataset used
 - https://github.com/pgolande8000-glitch
 
+## Key Performance Indicators (KPIs)
+- Total Sales – The overall revenue generated from all items sold.
+- Average Sales – The average revenue per sale.
+- Number of Items – The total count of different items sold.
+- Average Rating – The average customer rating for items sold.
+
+
