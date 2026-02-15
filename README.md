@@ -42,6 +42,7 @@ Would you like me to draft a one-line project objective statement (like for a re
 - Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 - Recommended Chart Type: Matrix Card
 
+## Dashboard Link = 
 
 
 
