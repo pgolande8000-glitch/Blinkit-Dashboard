@@ -1,4 +1,4 @@
-## Blinkit Grocery Dashboard (using EXCEL)
+## Blinkit Grocery Dashboard (using EXCEL):
 To design an interactive Power BI dashboard that provides actionable insights into BlinkIT’s grocery sales, customer behavior, and product performance. The goal is to enable data-driven decision-making by visualizing key metrics such as revenue trends, category-wise sales, top-performing products, customer demographics, and operational efficiency.
 In short, it’s about:
 - Tracking performance → sales, orders, revenue, margins
@@ -7,13 +7,30 @@ In short, it’s about:
 - Supporting decisions → marketing, pricing, and supply chain strategies
 Would you like me to draft a one-line project objective statement (like for a report or presentation), or a slightly detailed version (like for a project proposal)?
 
-## Dataset used
+## Dataset used:
 - https://github.com/pgolande8000-glitch
 
-## Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs):
 - Total Sales – The overall revenue generated from all items sold.
 - Average Sales – The average revenue per sale.
 - Number of Items – The total count of different items sold.
 - Average Rating – The average customer rating for items sold.
+
+## Chart’s Requirements:
+- Total Sales by Fat Content
+- Objective: Analyze the impact of fat content on total sales.
+- Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- Chart Type: Donut Chart.
+- Total Sales by Item Type
+- Objective: Identify the performance of different item types in terms of total sales.
+- Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- Chart Type: Bar Chart.
+- Fat Content by Outlet for Total Sales
+- Objective: Compare total sales across different outlets segmented by fat content.
+- Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- Chart Type: Stacked Column Chart.
+- Total Sales by Outlet Establishment
+- Objective: Evaluate how the age or type of outlet establishment influences total sales.
+- Chart Type: Line Chart.
 
 
