@@ -32,5 +32,17 @@ Would you like me to draft a one-line project objective statement (like for a re
 - Total Sales by Outlet Establishment
 - Objective: Evaluate how the age or type of outlet establishment influences total sales.
 - Chart Type: Line Chart.
+- Sales by Outlet Size
+- Objective: Analyze the correlation between outlet size and total sales.
+- Recommended Chart Type: Donut / Pie Chart
+  Sales by Outlet Location
+- Objective: Assess the geographic distribution of sales across different locations.
+- Recommended Chart Type: Funnel Map
+  All Metrics by Outlet Type
+- Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
+- Recommended Chart Type: Matrix Card
+
+
+
 
 
