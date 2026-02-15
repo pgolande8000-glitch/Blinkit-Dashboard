@@ -17,7 +17,7 @@ Would you like me to draft a one-line project objective statement (like for a re
 - Average Rating – The average customer rating for items sold.
 
 ## Chart’s Requirements:
-#1 Total Sales by Fat Content
+##1 Total Sales by Fat Content
 - Objective: Analyze the impact of fat content on total sales.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 - Chart Type: Donut Chart.
