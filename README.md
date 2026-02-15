@@ -1,4 +1,4 @@
-Blinkit Grocery Dashboard using EXCEL.
+Blinkit Grocery Dashboard (using EXCEL)
 To design an interactive Power BI dashboard that provides actionable insights into BlinkIT’s grocery sales, customer behavior, and product performance. The goal is to enable data-driven decision-making by visualizing key metrics such as revenue trends, category-wise sales, top-performing products, customer demographics, and operational efficiency.
 In short, it’s about:
 - Tracking performance → sales, orders, revenue, margins
