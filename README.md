@@ -7,8 +7,6 @@ In short, it’s about:
 - Supporting decisions → marketing, pricing, and supply chain strategies
 Would you like me to draft a one-line project objective statement (like for a report or presentation), or a slightly detailed version (like for a project proposal)?
 
-## Dataset used:
-- https://github.com/pgolande8000-glitch
 
 ## Key Performance Indicators (KPIs):
 - Total Sales – The overall revenue generated from all items sold.
@@ -42,7 +40,9 @@ Would you like me to draft a one-line project objective statement (like for a re
 - Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 - Recommended Chart Type: Matrix Card
 
-## Dashboard Link = 
+## Dashboard Screenshot = 
+<img width="1296" height="746" alt="Screenshot 2026-02-15 235719" src="https://github.com/user-attachments/assets/ac6225df-63a1-4b87-b6b2-d103c912d57d" />
+
 
 
 
